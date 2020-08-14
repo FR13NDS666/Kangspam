@@ -2,7 +2,7 @@
 Ini adalah tool gak guna bikinan gua, fungsinya buat spam dia yg udah ninggalin pas lagi sayang2nya.
 Padahal gua udah sayang banget, jarang2 gua sayang ke cewe sampe setolol ini.
 
-> Kalo ada otp yg coid/paeh/modar laporkan ke gua bro via menu nomor 99
+> Kalo ada otp yg coid/paeh/modar laporkan ke gua bro via menu didalem tool nomor 99
 
 ## Instalasi
 ```bash
