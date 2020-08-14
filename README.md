@@ -5,7 +5,7 @@ Padahal gua udah sayang banget, jarang2 gua sayang ke cewe sampe setolol ini.
 > Kalo ada otp yg coid/paeh/modar laporkan ke gua bro via menu didalem tool nomor 99
 
 ## Instalasi
-```bash
+```php
 $ pkg install git python
 $ pip install requests bs4
 $ git clone https://github.com/Yutixcode/Kangspam
