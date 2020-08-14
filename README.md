@@ -10,4 +10,4 @@ $ git clone https://github.com/Yutixcode/Kangspam
 $ python Kangspam/run.py
 ```
 
-## Kalo ada otp yg coid/paeh/modar laporkan ke gua bro via menu nomor 99
+> Kalo ada otp yg coid/paeh/modar laporkan ke gua bro via menu nomor 99
