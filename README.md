@@ -1,4 +1,5 @@
 # KangSpam
+![Tool taik, gak guna](https://github.com/Yutixcode/Kangspam/blob/master/.KangSpam.png?raw=true)
 Ini adalah tool gak guna bikinan gua, fungsinya buat spam dia yg udah ninggalin pas lagi sayang2nya.
 Padahal gua udah sayang banget, jarang2 gua sayang ke cewe sampe setolol ini.
 
