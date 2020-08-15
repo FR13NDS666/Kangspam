@@ -12,4 +12,5 @@ $ git clone https://github.com/Yutixcode/Kangspam
 $ python Kangspam/run.py
 ```
 
+
 ![Tool taik, gak guna](https://github.com/Yutixcode/Kangspam/blob/master/.KangSpam.png?raw=true)
