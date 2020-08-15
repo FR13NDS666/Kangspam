@@ -11,9 +11,10 @@ $ pip install requests bs4
 $ git clone https://github.com/Yutixcode/Kangspam
 $ python Kangspam/run.py
 ```
+
+----------
+![Tool taik, gak guna](https://github.com/Yutixcode/Kangspam/blob/master/.KangSpam.png?raw=true)
 ----------
 
-![Tool taik, gak guna](https://github.com/Yutixcode/Kangspam/blob/master/.KangSpam.png?raw=true)
-
-## Kontributor
-- Imam x D4RK5H4D0W
+> ## Kontributor
+> - [Imam x D4RK5H4D0W](https://github.com/AnonRoz-Team/jancok-sms)
