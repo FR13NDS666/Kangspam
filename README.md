@@ -17,4 +17,4 @@ $ python Kangspam/run.py
 ----------
 
 ### Kontributor
-- [Imam x D4RK5H4D0W](https://github.com/AnonRoz-Team/jancok-sms)
+- [Imam x D4RKSH4D0WS](https://github.com/AnonRoz-Team/jancok-sms)
