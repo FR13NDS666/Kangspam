@@ -14,3 +14,6 @@ $ python Kangspam/run.py
 ----------
 
 ![Tool taik, gak guna](https://github.com/Yutixcode/Kangspam/blob/master/.KangSpam.png?raw=true)
+
+## Kontributor
+- Imam x D4RK5H4D0W
