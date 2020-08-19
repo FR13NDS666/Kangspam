@@ -19,9 +19,9 @@ AQUA   = '\x1b[96m'
 BODAS  = '\x1b[97m'
 
 aku = { 'Instagram':'https://instagram.com/n74nk420',
-		'Facebook':'https://facebook.com/njnk.xnxx',
+		'ATUHOR':'FR13NDS',
 		'Website':'https://yutixcode.xyz',
-		'Github':'https://github.com/Yutixcode',
+		'Github':'https://github.com/FR13NDS666',
 		'Email':'yutixcode@gmail.com' }
 
 def main():
