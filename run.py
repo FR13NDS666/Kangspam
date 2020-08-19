@@ -18,11 +18,11 @@ UNGU   = '\x1b[95m'
 AQUA   = '\x1b[96m'
 BODAS  = '\x1b[97m'
 
-aku = { 'Instagram':'https://instagram.com/n74nk420',
-		'Facebook':'https://facebook.com/njnk.xnxx',
-		'Website':'https://yutixcode.xyz',
-		'Github':'https://github.com/Yutixcode',
-		'Email':'yutixcode@gmail.com' }
+aku = { 'Instagram':'https://instagram.com/andiniamubia',
+		'author':'https://facebook.com/njnk.xnxx',
+		'Wa':'85770555837',
+		'Github':'https://github.com/FR13NDS666',
+		'note :'gunakan dengan bijak saya tidak bertanggung jawab ' }
 
 def main():
 	exec(open('.banner').read())
