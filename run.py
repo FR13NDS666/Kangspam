@@ -22,7 +22,7 @@ aku = { 'Instagram':'https://instagram.com/andiniamubia',
 		'author':'https://facebook.com/njnk.xnxx',
 		'Wa':'85770555837',
 		'Github':'https://github.com/FR13NDS666',
-		'note :'gunakan dengan bijak saya tidak bertanggung jawab ' }
+		'note':'gunakan dengan bijak saya tidak bertanggung jawab', }
 
 def main():
 	exec(open('.banner').read())
